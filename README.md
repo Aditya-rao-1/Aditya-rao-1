@@ -4,8 +4,7 @@
   <h3>Hello, I am Adithya Rao 👋</h3>
 
   <h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-    Building Intelligent Solutions with 
-    <span>
+    <span> Building Intelligent Solutions with 
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&color=FFD700&center=true&vCenter=true&width=250&lines=Code;Creativity;Innovation" />
     </span>
   </h2>
