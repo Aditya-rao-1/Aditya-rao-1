@@ -3,22 +3,20 @@
 
   <h3>Hello, I am Adithya Rao 👋</h3>
 
-  <h2>Building Intelligent Solutions with 
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFD700&center=false&vCenter=true&width=300&lines=Code;Creativity;Innovation" />
+  <h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+    Building Intelligent Solutions with 
+    <span>
+      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&color=FFD700&center=false&vCenter=true&width=250&lines=Code;Creativity;Innovation" />
+    </span>
   </h2>
 
-  <div>
+  <div style="margin-top: 10px;">
     <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
     </a>
   </div>
 </div>
 
-
-
-
-
-I'm a full-stack developer.
 
 ---
 
