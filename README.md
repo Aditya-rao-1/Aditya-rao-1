@@ -20,22 +20,30 @@
 ---
 ### 🛠️ Languages and Tools
 
-<table>
+<table width="100%" align="center" style="border-collapse: collapse;">
   <tr>
-    <th style="padding: 10px; text-align: center;">Languages</th>
-    <th style="padding: 10px; text-align: center;">Frontend</th>
+    <th style="padding: 15px; text-align: center; font-size: 20px;">Languages</th>
+    <th style="padding: 15px; text-align: center; font-size: 20px;">Frontend</th>
   </tr>
   <tr>
-    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=js,ts,java,c,python&theme=light"></td>
-    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+    <td style="padding: 20px; text-align: center;">
+      <img src="https://skillicons.dev/icons?i=js,ts,java,c,python&theme=light" />
+    </td>
+    <td style="padding: 20px; text-align: center;">
+      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light" />
+    </td>
   </tr>
   <tr>
-    <th style="padding: 10px; text-align: center;">Backend & Databases</th>
-    <th style="padding: 10px; text-align: center;">Tools & Platforms</th>
+    <th style="padding: 15px; text-align: center; font-size: 20px;">Backend & Databases</th>
+    <th style="padding: 15px; text-align: center; font-size: 20px;">Tools & Platforms</th>
   </tr>
   <tr>
-    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=light"></td>
-    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=aws,git,figma&theme=light"></td>
+    <td style="padding: 20px; text-align: center;">
+      <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=light" />
+    </td>
+    <td style="padding: 20px; text-align: center;">
+      <img src="https://skillicons.dev/icons?i=aws,git,figma&theme=light" />
+    </td>
   </tr>
 </table>
 
