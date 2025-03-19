@@ -2,18 +2,18 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
 
   <h3>Hello, I am Adithya Rao 👋</h3>
-    <span> Building Intelligent Solutions with 
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&color=FFD700&center=false&vCenter=false&width=250&lines=Code;Creativity;Innovation" />
-    </span>
 
+  <h2>
+    Building Intelligent Solutions with 
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&color=FFD700&center=false&vCenter=true&width=280&lines=Code;Creativity;Innovation" />
+  </h2>
 
-  <div style="margin-top: 10px;">
-    <a href="" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
-    </a>
-  </div>
+  <br>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
+  </a>
 </div>
-
 
 ---
 
