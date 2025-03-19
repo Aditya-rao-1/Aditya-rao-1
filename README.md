@@ -3,15 +3,15 @@
 
   <h3>Hello, I am Adithya Rao 👋</h3>
 
-  <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=5000&color=FFD700&center=false&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Code;Innovation+and+Creativity+🚀&repeat=0" />
-  </h2>
-
+ <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?font=JetBrains+Mono&weight=500&size=24&duration=5000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Code,;Innovation+and+Creativity+🚀&repeat=0" />
   <br>
 
   <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
-    </a>
+  </a>
+</div>
+
 </div>
 
 
