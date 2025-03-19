@@ -4,8 +4,7 @@
   <h3>Hello, I am Adithya Rao 👋</h3>
 
   <h2>
-    Building Intelligent Solutions with 
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&color=FFD700&center=false&vCenter=true&width=280&lines=Code;Creativity;Innovation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&color=FFD700&center=false&vCenter=true&width=600&lines=Building+Intelligent+Solutions+with+Code,+Innovation,+and+Creativity+🚀" />
   </h2>
 
   <br>
