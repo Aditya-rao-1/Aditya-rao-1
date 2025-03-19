@@ -4,7 +4,7 @@
   <h3>Hello, I am Adithya Rao 👋</h3>
 
   <h2>
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=4000&color=FFD700&center=false&vCenter=true&width=600&lines=Building+Intelligent+Solutions+with+Code,+Innovation,+and+Creativity+🚀" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=6000&color=FFD700&center=false&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Code,+Innovation,+and+Creativity+🚀&repeat=0" />
   </h2>
 
   <br>
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
   </a>
 </div>
+
 
 ---
 
