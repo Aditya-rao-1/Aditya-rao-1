@@ -1,4 +1,19 @@
-# <h3 align="center">Hello, I am Adithya Rao 👋</h3>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=header"/>
+
+  # <h3 align="center">Hello, I am Adithya Rao 👋</h3>
+  ## Building Intelligent Solutions with  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=FFD700&center=true&vCenter=true&width=500&lines=Code;Creativity;Innovation)
+
+  <div>
+    <a href="" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" />
+    </a>
+  </div>
+</div>
+
+
+
 
 I'm a full-stack developer.
 
