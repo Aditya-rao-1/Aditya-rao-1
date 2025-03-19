@@ -3,8 +3,12 @@
 
   <h3>Hello, I am Adithya Rao 👋</h3>
 
- <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?font=JetBrains+Mono&weight=500&size=24&duration=5000&color=FFD700&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+Code,;Innovation+and+Creativity+🚀&repeat=0" />
+  <h1><b>Building Intelligent Solutions with</b></h1>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=5000&color=FFD700&center=true&vCenter=true&width=700&lines=Code,+Creativity,+and+Innovation+🚀&repeat=0" />
+  </div>
+
   <br>
 
   <a href="" target="_blank">
@@ -12,30 +16,31 @@
   </a>
 </div>
 
-</div>
-
-
 
 ---
-
 ### 🛠️ Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="ReactJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="NextJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<table>
+  <tr>
+    <th style="padding: 10px; text-align: center;">Languages</th>
+    <th style="padding: 10px; text-align: center;">Frontend</th>
+  </tr>
+  <tr>
+    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=js,ts,java,c,python&theme=light"></td>
+    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=light"></td>
+  </tr>
+  <tr>
+    <th style="padding: 10px; text-align: center;">Backend & Databases</th>
+    <th style="padding: 10px; text-align: center;">Tools & Platforms</th>
+  </tr>
+  <tr>
+    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=nodejs,mysql,firebase&theme=light"></td>
+    <td style="padding: 15px;"><img src="https://skillicons.dev/icons?i=aws,git,figma&theme=light"></td>
+  </tr>
+</table>
 
 <br />
-<br />
+
 
 ---
 
