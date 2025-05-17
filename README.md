@@ -11,7 +11,7 @@
 
   <br>
 
-  <a href="" target="_blank">
+  <a href="https://adi-portfolio-beta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio" />
   </a>
 </div>
